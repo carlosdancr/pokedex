@@ -77,7 +77,7 @@ Sugestões úteis:
 
 ## 🧾 Licença
 
-Nenhuma licença foi declarada no repositório no momento desta escrita. Se pretende reutilizar o código, considere abrir uma issue para alinhar permissões com o autor.
+No momento, **não há um arquivo de licença** definido no repositório.
 
 ## 🙌 Créditos
 
