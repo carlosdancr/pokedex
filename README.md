@@ -1,12 +1,12 @@
 # Pokédex
 
-Aplicação web simples que consulta a **PokéAPI** e exibe informações básicas de Pokémon (nome, imagem/sprite, tipos) usando **HTML5**, **CSS3/SASS** e **JavaScript** puro — sem frameworks. Demo em produção: **[pokedex-gamma-ashy.vercel.app](https://pokedex-sable-eta-87.vercel.app/)**.
+Aplicação web simples que consulta a **PokéAPI** e exibe informações básicas de Pokémon (nome, imagem/sprite, tipos) usando **HTML5**, **CSS3/SASS** e **JavaScript** puro — sem frameworks. Demo em produção: **[https://pokedex-carlosdancr.vercel.app/](https://pokedex-sable-eta-87.vercel.app/)**.
 
 ---
 
 ## 🚀 Demo
 
-- **Produção:** [https://pokedex-gamma-ashy.vercel.app](https://pokedex-sable-eta-87.vercel.app/)
+- **Produção:** [https://pokedex-carlosdancr.vercel.app/](https://pokedex-sable-eta-87.vercel.app/)
 
 ---
 
