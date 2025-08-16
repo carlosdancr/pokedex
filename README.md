@@ -2,13 +2,11 @@
 
 Aplicação web simples que consulta a **PokéAPI** e exibe informações básicas de Pokémon (nome, imagem/sprite, tipos) usando **HTML5**, **CSS3/SASS** e **JavaScript** puro — sem frameworks. Demo em produção: **[https://pokedex-carlosdancr.vercel.app/](https://pokedex-sable-eta-87.vercel.app/)**.
 
----
+![Pokédex](img/screenshot.png)
 
 ## 🚀 Demo
 
 - **Produção:** [https://pokedex-carlosdancr.vercel.app/](https://pokedex-sable-eta-87.vercel.app/)
-
----
 
 ## 🧰 Tecnologias
 
@@ -18,8 +16,6 @@ Aplicação web simples que consulta a **PokéAPI** e exibe informações básic
 - **PokéAPI (REST)** — Base URL: `https://pokeapi.co/api/v2/`
 
 > Observação: o repositório é majoritariamente **SCSS**, seguido de **JavaScript** e **HTML**.
-
----
 
 ## 📦 Estrutura do projeto
 
@@ -35,14 +31,10 @@ Aplicação web simples que consulta a **PokéAPI** e exibe informações básic
 
 A lista de arquivos/pastas acima corresponde ao conteúdo do repositório.
 
----
-
 ## 📚 Como funciona (alto nível)
 
 1. A página carrega `index.html` e os estilos de `/css`.  
 2. O script `app.js` realiza **requisições REST** para a **PokéAPI** (por exemplo, `GET /pokemon/{id}`) e preenche a interface com os dados retornados (nome, tipos e sprites disponíveis).
-
----
 
 ## 🖥️ Executando localmente
 
@@ -61,20 +53,14 @@ npx serve .
 # ou use a extensão Live Server do VS Code e clique em "Open with Live Server"
 ```
 
----
-
 ## 🔗 Integração com a PokéAPI
 
 - **Base**: `https://pokeapi.co/api/v2/`  
 - **Exemplo de recurso**: `GET /pokemon/ditto` retorna JSON com nome, tipos, sprites, estatísticas etc.
 
----
-
 ## ✅ Status do projeto
 
 Concluído.
-
----
 
 ## 🤝 Como contribuir
 
@@ -89,21 +75,11 @@ Sugestões úteis:
 - Preferir componentes e classes CSS semânticas.
 - Atualizar este README quando incluir funcionalidades novas.
 
----
-
 ## 🧾 Licença
 
 Nenhuma licença foi declarada no repositório no momento desta escrita. Se pretende reutilizar o código, considere abrir uma issue para alinhar permissões com o autor.
-
----
 
 ## 🙌 Créditos
 
 - **Dados:** [PokéAPI](https://pokeapi.co/) — API pública e gratuita da comunidade.
 - **Autor do projeto:** [@carlosdancr](https://github.com/carlosdancr)
-
----
-
-## 📸 Capturas
-
-![Pokédex](img/screenshot.png)
