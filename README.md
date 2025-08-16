@@ -1,6 +1,6 @@
 # Pokédex
 
-Aplicação web simples que consulta a **PokéAPI** e exibe informações básicas de Pokémon (nome, imagem/sprite, tipos) usando **HTML5**, **CSS3/SASS** e **JavaScript** puro — sem frameworks. Demo em produção: **[https://pokedex-carlosdancr.vercel.app/](https://pokedex-sable-eta-87.vercel.app/)**.
+Aplicação web simples que consulta a **PokéAPI** e exibe informações básicas de Pokémon (nome, imagem/sprite, tipos) usando **HTML5**, **CSS3/SCSS** e **JavaScript** puro — sem frameworks. Demo em produção: **[https://pokedex-carlosdancr.vercel.app/](https://pokedex-sable-eta-87.vercel.app/)**.
 
 ![Pokédex](img/screenshot.png)
 
@@ -11,7 +11,7 @@ Aplicação web simples que consulta a **PokéAPI** e exibe informações básic
 ## 🧰 Tecnologias
 
 - **HTML5**
-- **CSS3 / SASS**
+- **CSS3 / SCSS**
 - **JavaScript (ES6+)**
 - **PokéAPI (REST)** — Base URL: `https://pokeapi.co/api/v2/`
 
@@ -21,7 +21,7 @@ Aplicação web simples que consulta a **PokéAPI** e exibe informações básic
 
 ```
 /
-├── css/              # estilos (SASS/CSS)
+├── css/              # estilos (SCSS/CSS)
 ├── img/              # imagens/ativos
 ├── app.js            # lógica da aplicação (fetch da PokéAPI, interação da UI)
 ├── index.html        # documento principal
