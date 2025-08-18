@@ -1,6 +1,6 @@
 # Pokédex
 
-Aplicação web simples que consulta a **PokéAPI** e exibe informações básicas de Pokémon (nome, imagem, tipos) usando **HTML5**, **CSS3/SCSS** e **JavaScript** puro — sem frameworks.
+Aplicação web simples que consulta a **PokéAPI** e exibe informações básicas do Pokémon (nome, imagem, tipos, estatísticas) usando **HTML5**, **CSS3/SCSS** e **JavaScript** puro — sem frameworks.
 
 ![Pokédex](img/screenshot.png)
 
@@ -52,4 +52,4 @@ npx serve .
 ## 🔗 Integração com a PokéAPI
 
 - **Base**: `https://pokeapi.co/api/v2/`  
-- **Exemplo de recurso**: `GET /pokemon/ditto` retorna JSON com nome, tipos, imagens, estatísticas etc.
+- **Exemplo de recurso**: `GET /pokemon/ditto` retorna JSON com nome, imagem, tipos, estatísticas etc.
